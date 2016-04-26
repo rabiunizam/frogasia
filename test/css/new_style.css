@@ -1,0 +1,141 @@
+
+input.loginbutton
+{
+   font-family:Verdana,sans-serif;
+   color:#FFFFFF;
+   background-image:url(../images/shade3.jpg);
+}
+
+input.textinput
+{
+   font-family:Verdana,sans-serif;
+   color:#000000;
+   background-color:#EEEEEE;
+}
+
+input.textinput2
+{
+   font-family:Georgia,sans-serif;
+   color:#000000;
+   background-color:#DDDDDD;
+   BORDER-BOTTOM: 0pt outset; 
+   BORDER-LEFT: 0pt outset; 
+   BORDER-RIGHT: 0pt outset; 
+   BORDER-TOP: 0pt outset; 
+}
+
+input.text_button
+{
+   font-family:Century Gothic,serif;
+   color:#000000;
+   background-color:#F93;
+   border-style:none;
+}
+
+input.text_button2
+{
+   font-family:Century Gothic,serif;
+   color:#000000;
+   background-color:#F93;
+}
+
+input.text_button3
+{
+   font-family:Century Gothic,serif;
+   color:#000000;
+   background-color:#F93;
+}
+
+td.news_event
+{
+   font-size:11px;
+   font-family:Verdana,sans-serif;
+   color:#990000;
+}
+
+td.news_date
+{
+   font-size:11px;
+   font-family:Verdana,sans-serif;
+   color:#000000;
+}
+
+td.news_title
+{
+   font-size:18px;
+   font-family:Century Gothic,serif;
+   color:#444444;
+}
+
+td.small_title
+{
+   font-size:12px;
+   font-family:Century Gothic,serif;
+   color:#444444;
+}
+
+td.small_title_white
+{
+   font-size:12px;
+   font-family:Century Gothic,serif;
+   color:#FFFFFF;
+}
+
+td.page_title_white
+{
+   font-size:14px;
+   font-weight:bold;
+   font-family:Century Gothic,serif;
+   color:#FFFFFF;
+}
+
+.page_title_black
+{
+   font-size:14px;
+   font-weight:bold;
+   font-family:Century Gothic,serif;
+   color:#000000;
+}
+
+.label_text2
+{
+   font-size:12px;
+   font-family:Verdana,sans-serif;
+   color:#000000;
+}
+
+.label_text
+{
+   font-size:12px;
+   font-family:Century Gothic,serif;
+   color:#000000;
+}
+error(1): wrong syntax
+.page_title_small
+{
+   font-size:12px;
+   font-weight:bold;
+   font-family:Century Gothic,serif;
+   color:#000000;
+}
+
+a.small_title
+{
+   font-size:12px;
+   font-family:Century Gothic,serif;
+   color:#930306;
+}
+
+.selectinput
+{
+   font-family:Verdana,sans-serif;
+   color:#000000;
+   background-color:#EEEEEE;
+}
+
+td.transcript
+{
+   font-size:9px;
+   font-family:Verdana,sans-serif;
+   color:#000000;
+}

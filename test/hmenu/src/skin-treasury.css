@@ -1,0 +1,6 @@
+@import url("skin-xp-apps.css");
+
+div.dynarch-horiz-menu table, div.dynarch-popup-menu table
+{
+   font: 12px verdana,arial,sans serif;
+}

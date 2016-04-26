@@ -1,0 +1,28 @@
+.common {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color:#3327A7;
+	text-decoration: none;
+}
+a.common:hover {
+	font-size: 10px;
+	color: #0000FF;
+	text-decoration: underline overline;
+}
+
+.scommon {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color:#3327A7;
+	text-decoration: none;
+}
+a.scommon:hover {
+	font-size: 10px;
+	color: #0000FF;
+	text-decoration: underline overline;
+}
+button {
+	BORDER-BOTTOM: 1pt solid; border-bottom-color:#0066FF; BORDER-LEFT: 1pt solid; border-left-color:#0066FF; BORDER-RIGHT: 1pt solid; border-right-color:#0066FF; BORDER-TOP: 1pt solid; border-top-color:#0066FF; FONT-FAMILY: verdana,arial; FONT-SIZE: 10pt; FONT-WEIGHT: lighter; bgcolor:white
+}
+
+
